@@ -11,6 +11,8 @@ INTRODUCTION
 
 This package contains ADMX template files, GPO backups exports, GPO reports, and WMI filter exports. It is to provide enterprise administrators the supporting GPOs and related files to aid them in the deployment of GPOs within their enterprise to meet STIG settings. Administrators are expected to fully test GPOs in test environments prior to live production deployments.
 
+This package contains JSON files to support Microsoft Endpoint Manager. It is to provide enterprise administrators the supporting device configuration profile policies to aid them to meet STIG settings for cloud based systems. Administrators are expected to fully test policies in test environments prior to live production deployments.
+
 
 MAINTENANCE
 -----------
@@ -54,6 +56,16 @@ Sample_LGPO.bat - A sample batch file to apply local policies GPOs to stand alon
 February 2021
 Added Microsoft Edge GPO and ADMX/ADML template files to package. - Proxy server settings requires administrators to configure appropriate local site proxy server configurations.
 
+April 2021
+Added MSIntunePolicies_Beta to package - contains Intune JSON backup files to assist administrators evaulate baseline configurations to support Microsoft Intune.
+
+July 2021
+Added Adobe Acrobat Reader DC Continuous to package.
+
+January 2022
+Added Mozilla Firefox GPO/MEM policies to package.
+
+
 USAGE
 -----
 
@@ -75,6 +87,9 @@ Delta spreadsheet reports provide the differences between current and previous S
 
 KNOWN ISSUES
 ------------
+Windows 10 10 Admnistrative Template Device Configuration Profile - DoD Windows 10 STIG vXrX Admnistrative Templates
+STIG ID WN10-CC-000052 Windows 10 must be configured to prioritize ECC Curve with longer key lengths first setting has been removed from JSON file. Administrators must configure STIG ID WN10-CC-000052 setting after importing device configuration profile in to environment. 
+
 The Windows Server 2012 R2, Windows Server 2016, and Windows Server 2019 member server GPO are configured to the most strictest setting (Local Account instead of Local account and member of Administrators group) for user right assignments values. The setting Deny access to this computer from the network must be relaxed to Local account and member of Administrators group on a system attempting to configured as member of cluster.
 
 The checklist files have been removed from DISA STIG Baseline package. Incompatibilies issues would have delayed release of STIG pacakge.

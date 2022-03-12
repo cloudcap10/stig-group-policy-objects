@@ -25,8 +25,26 @@
 
     <policies>
 
+        <!-- Configure Print Driver Restriction-->
+        <policy name="Pol_SecGuide_0721_Print_Driver"
+                class="Machine"
+                displayName="$(string.Pol_SecGuide_PrintDriver)"
+                explainText="$(string.Pol_SecGuide_PrintDriver_Help)"
+                key="Software\Policies\Microsoft\Windows NT\Printers\PointAndPrint"
+                valueName="RestrictDriverInstallationToAdministrators"
+                >
+            <parentCategory ref="Cat_SecGuide" />
+            <supportedOn ref="windows:SUPPORTED_Windows7" />
+            <enabledValue>
+                <decimal value="1" />
+            </enabledValue>
+            <disabledValue>
+                <decimal value="0" />
+            </disabledValue>
+        </policy>
+		
+		
         <!-- Configure SMBv1 -->
-
         <policy name="Pol_SecGuide_0001_SMBv1_Server"
                 class="Machine"
                 displayName="$(string.Pol_SecGuide_SMBv1Server)"
@@ -196,7 +214,6 @@
         </policy>
 
         <!-- Credential theft protections -->
-
         <policy name="Pol_SecGuide_0201_LATFP"
                 class="Machine"
                 displayName="$(string.Pol_SecGuide_LATFP)"
@@ -503,5 +520,28 @@
             </elements>
         </policy>
 
-    </policies>
+        <!-- Legacy JScript Block for Internet Explorer -->
+        <policy name="Pol_SecGuide_Legacy_JScript"
+            class="Machine"
+            displayName="$(string.Pol_SecGuide_Legacy_JScript)"
+            explainText="$(string.Pol_SecGuide_Legacy_JScript_Help)"
+            key="software\policies\microsoft\internet explorer\main\featurecontrol\FEATURE_RESTRICT_LEGACY_JSCRIPT_PER_SECURITY_ZONE"
+            presentation="$(presentation.Pol_SecGuide_Legacy_JScript)"
+                >
+            <parentCategory ref="Cat_SecGuide" />
+            <supportedOn ref="windows:SUPPORTED_Windows_10_0_RS4" />
+                  <elements>
+					<decimal id="POL_SG_excel" valueName="excel.exe" maxValue="99999" storeAsText="false" />
+					<decimal id="POL_SG_mspub" valueName="mspub.exe" maxValue="99999" storeAsText="false" />
+					<decimal id="POL_SG_powerpnt" valueName="powerpnt.exe" maxValue="99999" storeAsText="false" />
+					<decimal id="POL_SG_onenote" valueName="onenote.exe" maxValue="99999" storeAsText="false" />
+					<decimal id="POL_SG_visio" valueName="visio.exe" maxValue="99999" storeAsText="false" />
+					<decimal id="POL_SG_winproj" valueName="winproj.exe" maxValue="99999" storeAsText="false" />
+					<decimal id="POL_SG_winword" valueName="winword.exe" maxValue="99999" storeAsText="false" />
+					<decimal id="POL_SG_outlook" valueName="outlook.exe" maxValue="99999" storeAsText="false" />
+					<decimal id="POL_SG_msaccess" valueName="msaccess.exe" maxValue="99999" storeAsText="false" />
+				 </elements>
+        </policy>
+		
+	</policies>
 </policyDefinitions>

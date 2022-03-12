@@ -1,0 +1,56 @@
+GPOName,Path
+DoD Adobe Acrobat Reader DC Continuous STIG Computer V2R1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Adobe Acrobat Reader DC Continuous V2R1\GPOs
+DoD Adobe Acrobat Reader DC Continuous STIG Userer V2R1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Adobe Acrobat Reader DC Continuous V2R1\GPOs
+DoD Adobe Acrobat Pro DC Continuous STIG Computer v2r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Adobe Acrobat Pro DC Continuous v2r1\GPOs
+DoD Adobe Acrobat Pro DC Continuous STIG User v2r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Adobe Acrobat Pro DC Continuous v2r1\GPOs
+DoD Google Chrome STIG Computer v2r5,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Google Chrome v2r5\GPOs
+DoD Internet Explorer 11 STIG Computer v2r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Internet Explorer 11 v2r1\GPOs
+DoD Internet Explorer 11 STIG User v2r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Internet Explorer 11 v2r1\GPOs
+DoD Access 2013 STIG User v1r6,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Excel 2013 STIG User v1r7,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Infopath 2013 STIG Computer v1r5,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Infopath 2013 STIG User v1r5,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Lync 2013 STIG Computer v1r4,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Office System 2013 STIG Computer v2r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Office System 2013 STIG User v2r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Outlook 2013 STIG User v1r13,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD PowerPoint 2013 STIG User v1r6,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Project 2013 STIG User v1r4,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Publisher 2013 STIG User v1r5,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Visio 2013 STIG User v1r4,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Word 2013 STIG User v1r6,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2013 and Components\GPOs
+DoD Access 2016 STIG User v1r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD Excel 2016 STIG User v1r2,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD Office System 2016 STIG Computer v2r2,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD Office System 2016 STIG User v2r2,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD OneDrive for Business 2016 STIG Computer v2r2,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD OneDrive for Business 2016 STIG User v2r2,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD Outlook 2016 STIG User v2r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD PowerPoint 2016 STIG User v1r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD Project 2016 STIG User v1r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD Publisher 2016 STIG User v1r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD Skype for Business 2016 STIG Computer v1r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD Visio 2016 STIG User v1r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD Word 2016 STIG User v1r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office System 2016 and Components\GPOs
+DoD Windows 8 and 8.1 STIG Computer v1r22,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows 8 and 8.1 v1r22\GPOs
+DoD Windows 8 and 8.1 STIG User v1r22,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows 8 and 8.1 v1r22\GPOs
+DoD Windows 10 STIG Computer v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows 10 v2r3\GPOs
+DoD Windows 10 STIG User v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows 10 v2r3\GPOs
+DoD Windows Defender Antivirus STIG Computer v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Defender Antivirus STIG v2r3\GPOs
+DoD Windows Firewall STIG v1r7,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Firewall v1r7\GPOs
+DoD Windows Server 2012 R2 Domain Controller STIG Computer v3r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2012 R2 MS and DC v3r3\GPOs
+DoD Windows Server 2012 R2 Domain Controller STIG User v3r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2012 R2 MS and DC v3r3\GPOs
+DoD Windows Server 2012 R2 Member Server STIG Computer v3r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2012 R2 MS and DC v3r3\GPOs
+DoD Windows Server 2012 R2 Member Server STIG User v3r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2012 R2 MS and DC v3r3\GPOs
+DoD Windows Server 2016 Domain Controller STIG Computer v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2016 MS and DC v2r3\GPOs
+DoD Windows Server 2016 Domain Controller STIG User v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2016 MS and DC v2r3\GPOs
+DoD Windows Server 2016 Member Server STIG Computer v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2016 MS and DC v2r3\GPOs
+DoD Windows Server 2016 Member Server STIG User v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2016 MS and DC v2r3\GPOs
+DoD Windows Server 2019 Domain Controller STIG Computer v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2019 MS and DC v2r3\GPOs
+DoD Windows Server 2019 Domain Controller STIG User v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2019 MS and DC v2r3\GPOs
+DoD Windows Server 2019 Member Server STIG Computer v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2019 MS and DC v2r3\GPOs
+DoD Windows Server 2019 Member Server STIG User v2r3,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Windows Server 2019 MS and DC v2r3\GPOs
+DoD Office 2019-Microsoft 365 Apps STIG Computer v2r4,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office 2019-Microsoft 365 Apps v2r4\GPOs
+DoD Office 2019-Microsoft 365 Apps STIG User v2r4,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Office 2019-Microsoft 365 Apps v2r4\GPOs
+DoD Microsoft Edge STIG Computer v1r4,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Microsoft Edge v1r4\GPOs
+DoD Mozilla Firefox STIG v6r1,C:\Temp\January 2022 DISA STIG GPO Package 0114\DoD Mozilla Firefox v6r1\GPOs
